@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+п»ї<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
     </head>
     <body>
-        Здравей :)
+        Р—РґСЂР°РІРµР№ :)
 <a href="contacts.php">Click here</a>
 
     </body>
